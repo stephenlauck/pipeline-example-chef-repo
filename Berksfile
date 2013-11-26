@@ -1,3 +1,4 @@
 site :opscode
 
-cookbook 'pipeline', git: 'git@github.com:stephenlauck/pipeline.git'
+cookbook 'pipeline', git: 'https://github.com/stephenlauck/pipeline.git'
+
