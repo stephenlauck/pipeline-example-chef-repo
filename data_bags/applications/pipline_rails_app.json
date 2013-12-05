@@ -1,0 +1,9 @@
+{
+  "id": "pipeline_rails_app",
+  "repo_url": "https://github.com/stephenlauck/pipleline_rails_app",
+  "clone_url": "git@github.com:stephenlauck/pipleline_rails_app.git",
+  "test_command": "rake -T",
+  "knife_search_string": "recipe:*pipleline_rails_app*",
+  "branch": "*/master"
+}
+
