@@ -1,0 +1,10 @@
+
+environments:
+- dev:
+data bags: 
+- users:
+    items:
+    - "*"
+- applications:
+    items:
+    - "*"
