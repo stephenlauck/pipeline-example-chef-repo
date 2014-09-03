@@ -1,10 +1,10 @@
 {
-  "name": "pre_production",
+  "name": "production",
   "default_attributes": {
 
   },
   "json_class": "Chef::Environment",
-  "description": "One step before production to test releases",
+  "description": "The production environment",
   "cookbook_versions": {
     "apt": "= 2.4.0",
     "build-essential": "= 2.0.4",
