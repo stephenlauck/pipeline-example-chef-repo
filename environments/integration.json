@@ -4,3 +4,4 @@
   "description": "Integration environment from which releases are cut",
   "chef_type": "environment"
   }
+  
