@@ -1,0 +1,22 @@
+{
+  "name": "pre_production",
+  "default_attributes": {
+
+  },
+  "json_class": "Chef::Environment",
+  "description": "One step before production to test releases",
+  "cookbook_versions": {
+    "apt": "= 2.4.0",
+    "build-essential": "= 2.0.4",
+    "chef_handler": "= 1.1.6",
+    "dmg": "= 2.2.0",
+    "emacs": "= 0.9.0",
+    "git": "= 4.0.2",
+    "runit": "= 1.5.10",
+    "sudo": "= 2.6.0",
+    "users": "= 1.7.0",
+    "windows": "= 1.33.1",
+    "yum": "= 3.2.2"
+  },
+  "chef_type": "environment"
+  }

@@ -1,0 +1,6 @@
+{
+  "name": "integration",
+  "json_class": "Chef::Environment",
+  "description": "Integration environment from which releases are cut",
+  "chef_type": "environment"
+  }
