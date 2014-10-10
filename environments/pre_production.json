@@ -15,7 +15,7 @@
     "runit": "= 1.5.10",
     "sudo": "= 2.6.0",
     "users": "= 1.7.0",
-    "windows": "= 1.33.1",
+    "windows": "= 1.33.5",
     "yum": "= 3.2.2"
   },
   "chef_type": "environment"
