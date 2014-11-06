@@ -1,10 +1,10 @@
 {
-  "name": "pre_production",
+  "name": "production",
   "default_attributes": {
 
   },
   "json_class": "Chef::Environment",
-  "description": "One step before production to test releases",
+  "description": "The production environment",
   "cookbook_versions": {
     "apt": "= 2.4.0",
     "build-essential": "= 2.0.4",
@@ -15,9 +15,8 @@
     "runit": "= 1.5.10",
     "sudo": "= 2.6.0",
     "users": "= 1.7.0",
-    "windows": "= 1.33.5",
-    "yum": "= 3.2.2"
+    "windows": "= 1.33.1",
+    "yum": "= 3.4.2"
   },
   "chef_type": "environment"
   }
-  
